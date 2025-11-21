@@ -4,4 +4,4 @@ This small script fixes a text alignment issue on certain screens in the Retropi
 # Installation
 Type the following (case-sensitive) line of code into the Raspberry Pi terminal :
 
-wget -O - "https://raw.githubusercontent.com/RetropiProject/nes-mini-theme-text-fix/main/install.sh" | sudo bash
+wget -O - "https://raw.githubusercontent.com/RetropiProject/nes-mini-theme-text-fix/main/fix_nes_mini_theme.sh" | sudo bash
